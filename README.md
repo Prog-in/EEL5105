@@ -1,5 +1,4 @@
-
-#  UFSC-Final-Project-CTD
+#  EEL 5105
 
 Final project of the discipline CTD (Circuitos e Técnicas Digitais - EEL 5105), attended at UFSC.
 
